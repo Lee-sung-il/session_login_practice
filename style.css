@@ -16,7 +16,7 @@ form {
   justify-content: start;
 }
 
-#login_btn {
+#login_button {
   grid-column: 3 / 4;
   grid-row: 1 / 3;
   width: 80px;
@@ -35,7 +35,7 @@ div {
   margin-bottom: 20px;
 }
 
-#logout_btn {
+#logout_button {
   width: 100%;
   height: 50px;
 }
